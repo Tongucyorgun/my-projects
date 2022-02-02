@@ -13,6 +13,7 @@ Resources:
       SecurityGroups:
         - MyFirstSecGroup
       UserData: 
+      
       Tags:
         - Key: Name
           Value: CfnInstance
